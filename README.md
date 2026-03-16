@@ -1,0 +1,1 @@
+This project operates through two main classes. The first class, ChatbotWithConsole, enables interaction via the console using OpenAI powered by LangChain. The second class, ChatbotWithUI, performs the same functionality through a graphical interface provided via FastAPI.
